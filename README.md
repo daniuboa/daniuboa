@@ -57,6 +57,12 @@ I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcM
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniuboa&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### ⏲️: My Weekly Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 ### ✍️: Blog Posts :
 
