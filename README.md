@@ -20,8 +20,6 @@
     </h1>
 </div>
 
----
-
 ### 👨‍💻: About Me
 
 I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
