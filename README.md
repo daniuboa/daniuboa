@@ -6,7 +6,7 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; ">
 
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="linkedin.com/in/ukechdanieluboa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-twitter-URL">
