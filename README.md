@@ -3,7 +3,7 @@
   src="/images/banner.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; ">
 
   <div id="badges">
     <a href="your-linkedin-URL">
