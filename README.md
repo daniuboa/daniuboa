@@ -38,9 +38,9 @@
 I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭: I have completed my Bachelors in Information Technology awaiting graduation.
+- 📖: I'm currently doing Full Stack Software Engineering at ALX SE Program.
 - 🌱: I am currently exploring cryptocurrency
 - ⚡: In my free time I play football, go to the gym and hang out with friends
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-UkechDanielUboa-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/ukechdanieluboa)
 
 ---
 
@@ -67,6 +67,3 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniuboa&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### ✍️: Blog Posts
