@@ -4,27 +4,31 @@
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px; border-radius: 25px; ">
-
-  <div id="badges">
-    <a href="https://linkedin.com/in/ukechdanieluboa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=daniuboa&style=flat-square&color=blue" alt=""/>
-    <h1>
-        Hello, there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+    
+  <h1>
+    Hello, there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
+
+
+<div id="header">
+   <div id="badges">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram BAdge"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </div>
+   
+</div>
+
+---
 
 ### 👨‍💻: About Me
 
-I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭: I'm currently a student pursuing Bachelors in Information Technology
+- 🔭: I have completed my Bachelors in Information Technology awaiting graduation.
 - 🌱: I am currently exploring cryptocurrency
 - ⚡: In my free time I play football, go to the gym and hang out with friends
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-UkechDanielUboa-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/ukechdanieluboa)
@@ -61,3 +65,5 @@ I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcM
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
+
+<img src="https://komarev.com/ghpvc/?username=daniuboa&style=flat-square&color=blue" alt=""/>
