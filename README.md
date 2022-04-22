@@ -39,8 +39,8 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 - 🔭: I have completed my Bachelors in Information Technology awaiting graduation.
 - 📖: I'm currently doing Full Stack Software Engineering at ALX SE Program.
-- 🌱: I am currently exploring cryptocurrency
-- ⚡: In my free time I play football, go to the gym and hang out with friends
+- 🌱: I'm currently exploring cryptocurrency.
+- ⚡: In my free time I play football, go to the gym and hang out with friends.
 
 ---
 
